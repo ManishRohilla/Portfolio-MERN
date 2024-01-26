@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@elasticemail/elasticemail-client": "^4.0.23",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.8",
+    "typewriter-effect": "^2.21.0"
+  },
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio app mern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ManishRohilla",
+  "license": "MIT"
+}

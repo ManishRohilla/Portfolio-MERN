@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1e2ee59.css",
+    "main.js": "/static/js/main.ae4b76ec.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/ManishKumar_Rohilla_CV.pdf": "/static/media/ManishKumar_Rohilla_CV.4c575c3cec2879a1d743.pdf",
+    "index.html": "/index.html",
+    "main.d1e2ee59.css.map": "/static/css/main.d1e2ee59.css.map",
+    "main.ae4b76ec.js.map": "/static/js/main.ae4b76ec.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e2ee59.css",
+    "static/js/main.ae4b76ec.js"
+  ]
+}
